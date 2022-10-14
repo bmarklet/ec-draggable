@@ -8,3 +8,8 @@
   position: absolute !important;
   height: 100vh !important;
 }
+
+.stack-jumbo {
+  height:450px;
+  width:600px;
+}
