@@ -1,0 +1,10 @@
+.draggable {
+  cursor: move;
+  border: 2px solid pink;
+  z-index: 999;
+}
+
+#broadcastSlots {
+  position: absolute !important;
+  height: 100vh !important;
+}
